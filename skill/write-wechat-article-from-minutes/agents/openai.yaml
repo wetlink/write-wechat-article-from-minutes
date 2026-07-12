@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minutes to WeChat Article"
+  short_description: "Create verified WeChat articles from posters and Minutes"
+  default_prompt: "Use $write-wechat-article-from-minutes to draft a polished WeChat article from an event poster and Feishu Minutes, verify facts, and create a Feishu doc."
