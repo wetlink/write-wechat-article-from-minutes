@@ -5,7 +5,7 @@ description: Use when the user provides an event poster/image plus a Feishu/Lark
 
 # Write WeChat Article From Minutes · 公众号活动稿蒸馏助手
 
-## 这是什么（三十秒版）
+## 这是什么
 
 活动办完了，手里只有一张海报和一段妙记录音，公众号推文还差临门一脚？
 把素材丢进来，产出**事实核验过的成稿** ✍️ ——不是 AI 顺嘴编的通稿。
