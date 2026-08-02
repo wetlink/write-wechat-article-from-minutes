@@ -3,7 +3,35 @@ name: write-wechat-article-from-minutes
 description: Use when the user provides an event poster/image plus a Feishu/Lark Minutes URL, transcript, meeting recording, or meeting notes and asks to write a polished WeChat official-account article, event report, public communication draft, or to create/落一份 into a Feishu document. Covers source extraction, transcript-based synthesis, public fact-checking for organizations/people/projects, ASR/OCR correction, WeChat-style writing, and Feishu doc creation with verification.
 ---
 
-# Write WeChat Article From Minutes
+# Write WeChat Article From Minutes · 公众号活动稿蒸馏助手
+
+## 这是什么（三十秒版）
+
+活动办完了，手里只有一张海报和一段妙记录音，公众号推文还差临门一脚？
+把素材丢进来，产出**事实核验过的成稿** ✍️ ——不是 AI 顺嘴编的通稿。
+
+**什么时候用我：**
+
+- 「海报 + 妙记链接，写一篇活动报道」
+- 「这段会议录音整理成公众号文章，落一份到飞书」
+- 机构/人名/项目名要求逐一核对，ASR 听错的字要纠回来
+
+**流水线：**
+
+```text
+海报（OCR）+ 妙记/逐字稿
+  → 素材抽取 → 基于逐字稿写作（不虚构发言）
+  → 公开信息事实核验（机构名/人名/项目名逐一过）
+  → ASR/OCR 纠错 → 公众号文风成稿
+  → 可选：落成飞书文档并回读验证「真的写进去了」
+```
+
+**纪律明牌**：事实纪律优先于文采——查不到的不写，纠不了的存疑标注；
+发言内容以逐字稿为准，不代嘉宾发挥。
+
+GitHub: [wetlink/write-wechat-article-from-minutes](https://github.com/wetlink/write-wechat-article-from-minutes)
+
+---
 
 ## Overview
 
