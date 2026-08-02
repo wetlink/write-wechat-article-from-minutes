@@ -18,7 +18,7 @@
 
 ## 代码仓库链接
 
-https://github.com/guiltyluce/write-wechat-article-from-minutes
+https://github.com/wetlink/write-wechat-article-from-minutes
 
 ## Skill Zip 下载链接
 

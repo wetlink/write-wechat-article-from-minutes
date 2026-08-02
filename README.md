@@ -6,9 +6,9 @@
 
 ## 发布地址
 
-- GitHub: https://github.com/guiltyluce/write-wechat-article-from-minutes
+- GitHub: https://github.com/wetlink/write-wechat-article-from-minutes
 - SkillHub: https://skillhub.cn/skills/write-wechat-article-from-minutes
-- v1.0.0 Release: https://github.com/guiltyluce/write-wechat-article-from-minutes/releases/tag/v1.0.0
+- v1.0.0 Release: https://github.com/wetlink/write-wechat-article-from-minutes/releases/tag/v1.0.0
 
 ## 适合场景
 
